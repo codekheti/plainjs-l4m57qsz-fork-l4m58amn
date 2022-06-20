@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/codekheti.plainjs-l4m57qsz-fork-l4m58amn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve SFw239JuucaNaA5VR5IS --open"
+  }
+}
